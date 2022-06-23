@@ -1,0 +1,11 @@
+{
+  "name": "RoboRegistradores",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/0lucasferrari/RoboRegistradores.git",
+  "author": "0lucasferrari <lucas.p.f.carvalho@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^14.4.1"
+  }
+}
